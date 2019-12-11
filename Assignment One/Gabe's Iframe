@@ -13,6 +13,33 @@ src="https://sololearn.com/" width="10000" height="10000" scrolling="yes"></ifra
 //I want you to have 4 diffrent changes using the <style> tag not the <iframe> tag
 //Put your code under here
 
+<!DOCTYPE html>
+<head>
+<style>
+
+</style>
+</head>
+<body>
+<div>
+<iframe style"=width: 100%; height: 100%; overflow: show; border: 1px solid #00FFFF;"
+src="https://sololearn.com/" width="1216" height="1000" scrolling="yes"></iframe>
+</div>
+</body>
+
+
+<!DOCTYPE html>
+<head>
+<style>
+div { color: blue; background-color: violet; padding: 3px; border: 10px solid black;
+
+</style>
+</head>
+<body>
+<div>
+<iframe style"=width: 100%; height: 100%; overflow: show; border: 1px solid #00FFFF;"
+src="https://sololearn.com/" width="1216" height="1000" scrolling="yes"></iframe>
+</div>
+</body>
 
 
 // Try to do it by yourself but if you need to use my code as a reference then you can.
