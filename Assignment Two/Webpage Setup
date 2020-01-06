@@ -1,3 +1,21 @@
 //you are going to want to know how to setup a basic website and what the diffrent parts do 
 
-<D
+//This is a bsic setup for a blank page
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Page Title</title>
+    <meta name="description" content="Roughly 155 characters">
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <!-- Content -->
+  </body>
+</html>
+
+// All of the code in the <head> tags is used to tell your computer what your website is.
+
+/*All of the code in the <body> tags is where the code goes to make your website work. All the code in the <body> tag is loaded in order unless specifeied otherwise.
